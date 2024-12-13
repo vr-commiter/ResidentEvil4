@@ -1,0 +1,17 @@
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\ResidentEvil4ConsoleApp.exe
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\ResidentEvil4ConsoleApp.deps.json
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\ResidentEvil4ConsoleApp.runtimeconfig.json
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\ResidentEvil4ConsoleApp.dll
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\ResidentEvil4ConsoleApp.pdb
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\bin\Release\net6.0\TrueGearSDK.dll
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.csproj.AssemblyReference.cache
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.AssemblyInfoInputs.cache
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.AssemblyInfo.cs
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.csproj.CoreCompileInputs.cache
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.csproj.CopyComplete
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.dll
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\refint\ResidentEvil4ConsoleApp.dll
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.pdb
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ResidentEvil4ConsoleApp.genruntimeconfig.cache
+F:\_ModProject\ResidentEvil4\ResidentEvil4ConsoleApp\ResidentEvil4ConsoleApp\obj\Release\net6.0\ref\ResidentEvil4ConsoleApp.dll
